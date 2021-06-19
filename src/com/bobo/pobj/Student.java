@@ -1,4 +1,4 @@
-package com.ao.pobj;
+package com.bobo.pobj;
 
 public class Student {
     public int id;

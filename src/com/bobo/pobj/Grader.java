@@ -1,6 +1,6 @@
-package com.ao;
+package com.bobo.pobj;
 
-import com.ao.pobj.Student;
+import com.bobo.pobj.Student;
 
 import java.util.ArrayList;
 import java.util.List;
