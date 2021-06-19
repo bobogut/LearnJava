@@ -1,4 +1,4 @@
-package com.bobo.pobj;
+package com.bobo;
 
 import com.bobo.pobj.Student;
 
@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 public class Grader {
 
     public Student getHighestScoreStudent(List<Student> students) {
-        return null;
+        return students.get(0);
     }
 
     public Student getLowestScoreStudent(List<Student> students) {
